@@ -1,4 +1,4 @@
-# UKnow: A Unified Knowledge Protocol
+# A Unified Knowledge Protocol
 
 * **Title**: **[UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training](https://arxiv.org/abs/2302.06891)**
 * **Authors**: Biao Gong, Xiaoying Xie, Yutong Feng, Yiliang Lv, Yujun Shen, Deli Zhao
@@ -11,7 +11,7 @@ The code, dataset, arXiv and websit will be available upon acceptance.
 We are in the process of cleaning up the source code and awaiting corporate review to open source it. We will release a version of the basic UKnow in [ModelScope](https://www.modelscope.cn/home). ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications.
 
 ## Overview
-<!-- 
+
 <left>
     <img width="60%",style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -24,11 +24,11 @@ We are in the process of cleaning up the source code and awaiting corporate revi
     line-height: 1em;
     color: #999;
     padding: 2px;">Figure 1: <b>Overview of UKnow protocol</b>, consisting of five unit knowledge types, namely, in-image <b>I_{in}</b> (e.g., object), in-text <b>T_{in}</b> (e.g., entity), cross-image <b>I_{cross}</b> (e.g., image similarity), cross-text <b>T_{cross}</b> (e.g., text continuity), and image-text <b>IT_{cross}</b> (e.g., description).</div>
-</left> -->
+</left>
 
 
-<img src=img_head00.png width=60%/>
-<div style="line-height: 1em;font-size:10px">Figure 1: <b>Overview of UKnow protocol</b>, consisting of five unit knowledge types, namely, in-image <b>I_{in}</b> (e.g., object), in-text <b>T_{in}</b> (e.g., entity), cross-image <b>I_{cross}</b> (e.g., image similarity), cross-text <b>T_{cross}</b> (e.g., text continuity), and image-text <b>IT_{cross}</b> (e.g., description).</div>
+<!-- <img src=img_head00.png width=60%/>
+<div style="line-height: 1em;font-size:10px">Figure 1: <b>Overview of UKnow protocol</b>, consisting of five unit knowledge types, namely, in-image <b>I_{in}</b> (e.g., object), in-text <b>T_{in}</b> (e.g., entity), cross-image <b>I_{cross}</b> (e.g., image similarity), cross-text <b>T_{cross}</b> (e.g., text continuity), and image-text <b>IT_{cross}</b> (e.g., description).</div> -->
 
 <br/>
 
